@@ -1,0 +1,6 @@
+{
+  "outputDirectory": ".",
+  "routes": [
+    { "src": "/chatbot-widget.js", "dest": "/index.js" }
+  ]
+}
